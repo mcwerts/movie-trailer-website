@@ -1,0 +1,58 @@
+[
+	{
+	    "title": "Avatar",
+	    "synopsis": "A marine on an alien planet",
+	    "poster": "http://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+	    "theatrical_trailer": "https://www.youtube.com/watch?v=uA8SG4Yea7s",
+	    "honest_trailer": "https://www.youtube.com/watch?v=eUTtt14G31c"
+	},
+
+    {
+    	"title": "Star Trek (2009)",
+    	"synopsis": "Time travelling reboot of the popular classic.",
+    	"poster": "http://upload.wikimedia.org/wikipedia/en/2/29/Startrekposter.jpg",
+    	"theatrical_trailer": "https://www.youtube.com/watch?v=iGAHnZ555nI",
+    	"honest_trailer": "https://www.youtube.com/watch?v=OTfBH-XFdSc"
+    },
+
+	{
+		"title": "Interstellar",
+		"synopsis": "Spaced out space film.",
+		"poster": "http://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+		"theatrical_trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+		"honest_trailer": "https://www.youtube.com/watch?v=lZMzf-SDWP8"
+	},
+
+	{
+		"title": "Captain America: The Winter Soldier",
+		"synopsis": "Captain America versus Hydra in the 21st century.",
+		"poster": "http://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg",
+		"theatrical_trailer": "https://www.youtube.com/watch?v=NLWsK1ZFunA",
+		"honest_trailer": "https://www.youtube.com/watch?v=JvHyk2ESFCI"
+	},
+
+
+	{
+	    "title": "The Lord of the Rings",
+	    "synopsis": "A Hobbit must destroy a ring of ultimate power.",
+	    "poster": "http://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg",
+	    "theatrical_trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+	    "honest_trailer": "https://www.youtube.com/watch?v=AOIi9SjJvgU"
+	},
+
+	{
+	    "title": "Guardians of the Galaxy",
+	    "synopsis": "Alien abduction and classic rock.",
+	    "poster": "http://upload.wikimedia.org/wikipedia/en/8/8f/GOTG-poster.jpg",
+	    "theatrical_trailer": "https://www.youtube.com/watch?v=d96cjJhvlMA",
+	    "honest_trailer": "https://www.youtube.com/watch?v=dOyJqGtP-wU"
+	},
+
+	{
+	    "title": "Taken",
+	    "synopsis": "An ex CIA man must rescue his kidnapped daughter in Europe.",
+	    "poster": "http://upload.wikimedia.org/wikipedia/en/e/ed/Taken_film_poster.jpg",
+	    "theatrical_trailer": "https://www.youtube.com/watch?v=uPJVJBm9TPA",
+	    "honest_trailer": "https://www.youtube.com/watch?v=EoKGNch3Uto"
+	}
+]
